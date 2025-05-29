@@ -141,6 +141,7 @@ Publish the website in the LocalHost.
 </html>```
 # OUTPUT:
 ![image](https://github.com/user-attachments/assets/6abc063b-25ec-4c00-9ffb-706f1e49e21a)
+![image](https://github.com/user-attachments/assets/1a37b4d9-67c1-4035-8dc6-ffc49017e2bf)
 ![Uploading image.png…]()
 
 
